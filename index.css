@@ -1,0 +1,38 @@
+#container {
+    height: 1000px;
+    min-width: 310px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.loading {
+    margin-top: 10em;
+    text-align: center;
+    color: gray;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.mainText label {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+
+.csvInput {
+    display: flex;
+    justify-content: center;
+}
+
+.color label {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+
+.colorChoose {
+    display: flex;
+    justify-content: center;
+}
